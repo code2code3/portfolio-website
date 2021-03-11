@@ -214,6 +214,13 @@ img {
   font-size: 110%;
 }
 
+#portfolio a,
+#portfolio a:link,
+#portfolio a:visited {
+  text-decoration: none;
+  color: black;
+}
+
 /* end divider */
 
 .skillIcon {
